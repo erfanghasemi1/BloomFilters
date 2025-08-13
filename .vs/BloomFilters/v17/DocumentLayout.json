@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "E:\\C#\\.net\\BloomFilters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\bloomfiltersclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:bloomfiltersclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\query\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:query\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|e:\\c#\\.net\\bloomfilters\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{450433E4-CF17-4AFD-A6AB-12BFF54429B1}|BloomFilters.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "E:\\C#\\.net\\BloomFilters\\Query\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "Query\\LoginQuery.cs",
+              "ToolTip": "E:\\C#\\.net\\BloomFilters\\Query\\LoginQuery.cs",
+              "RelativeToolTip": "Query\\LoginQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:42:00.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BloomFiltersClass.cs",
+              "DocumentMoniker": "E:\\C#\\.net\\BloomFilters\\BloomFiltersClass.cs",
+              "RelativeDocumentMoniker": "BloomFiltersClass.cs",
+              "ToolTip": "E:\\C#\\.net\\BloomFilters\\BloomFiltersClass.cs",
+              "RelativeToolTip": "BloomFiltersClass.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:19:36.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\C#\\.net\\BloomFilters\\LoginModel.cs",
+              "RelativeDocumentMoniker": "LoginModel.cs",
+              "ToolTip": "E:\\C#\\.net\\BloomFilters\\LoginModel.cs",
+              "RelativeToolTip": "LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:15:53.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\C#\\.net\\BloomFilters\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "E:\\C#\\.net\\BloomFilters\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T22:14:27.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": ".gitignore",
               "DocumentMoniker": "E:\\C#\\.net\\BloomFilters\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -39,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "E:\\C#\\.net\\BloomFilters\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "E:\\C#\\.net\\BloomFilters\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-13T21:49:24.986Z",
               "EditorCaption": ""
@@ -58,9 +126,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\C#\\.net\\BloomFilters\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T21:26:51.943Z"
+              "WhenOpened": "2025-08-13T21:26:51.943Z",
+              "EditorCaption": ""
             }
           ]
         }
